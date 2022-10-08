@@ -39,6 +39,7 @@ GIF created with ...
 
 I struggled with re-working the poster images compared to how to accomplished this in the lab.  After a bit of trail and error, I ended up finding a solution that displayed the images.
 I am not certain if it's the database itself, or something unique in my code, but the app takes a minute or so to load.  I'd be interested in learning if there's a way to cut-off how many tv shows are loading.
+I ran out of time to work further on this, but if I could change anything I would import both the horizontal and the vertical show posters so that when you click on the intent it would show the horizontal version instead of the vertical one (as it's taking up most of the screen space).
 
 ## License
 
