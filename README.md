@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a [walkthrough](https://i.imgur.com/rkcGqY4.gif) of my app:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/rkcGqY4.gif" title="Video Walkthrough" width="200px" alt="Video Walkthrough" />
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
