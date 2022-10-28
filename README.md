@@ -1,4 +1,4 @@
-# Top TV Shows App
+# Top TV Shows - Android App
 
 Submitted by: **Aaron Fowler**
 
