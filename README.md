@@ -1,30 +1,19 @@
-# Android Project 4 - *Flixster 2: Top TV Shows*
+# Top TV Shows App
 
 Submitted by: **Aaron Fowler**
 
 **Top TV Shows** is a movie browsing app that allows users to see what the top shows are based on popularity.
 
-Time spent: **8** hours spent in total
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+The app includes the following functionality:
 
-- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `tv/popular`
-- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [X] **Use Glide to load and display at least one image per entry**
-- [X] **Click on an entry to view specific details about that entry using Intents**
+- [X] **Uses the 'tv/popular' endpoint on The MovieDB API.
+- [X] **Makes a request to the 'tv/popular' endpoint, parses the returned JSON, and implements a RecyclerView to display all entries**
+- [X] **Uses Glide to load and display a movie poster for image for each entry**
+- [X] **Provides clickability on an entry to view specific details about that entry using Intents**
 
-The following **optional** features are implemented:
-
-- [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
-- [ ] **Add rounded corners to the images using the Glide transformations**
-- [ ] **Implement a shared element transition when user clicks into the details of a movie**
-
-The following **additional** features are implemented:
-
-- None
 
 ## Video Walkthrough
 
@@ -35,11 +24,6 @@ Here's a [walkthrough](https://i.imgur.com/rkcGqY4.gif) of my app:
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
-## Notes
-
-I struggled with re-working the poster images compared to how to accomplished this in the lab.  After a bit of trial and error, I ended up finding a solution that displayed the images.
-I am not certain if it's the database itself, or something unique in my code, but the app takes a minute or so to load.  I'd be interested in learning if there's a way to cut-off how many tv shows are loading.
-I ran out of time to work further on this, but if I could change anything I would import both the horizontal and the vertical show posters so that when you click on the intent it would show the horizontal version instead of the vertical one (as it's taking up most of the screen space).
 
 ## License
 
