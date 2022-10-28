@@ -9,7 +9,7 @@ Submitted by: **Aaron Fowler**
 
 The app includes the following functionality:
 
-- [X] **Uses the 'tv/popular' endpoint on The MovieDB API.
+- [X] **Uses the 'tv/popular' endpoint on The MovieDB API.**
 - [X] **Makes a request to the 'tv/popular' endpoint, parses the returned JSON, and implements a RecyclerView to display all entries**
 - [X] **Uses Glide to load and display a movie poster for image for each entry**
 - [X] **Provides clickability on an entry to view specific details about that entry using Intents**
