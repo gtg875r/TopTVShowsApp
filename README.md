@@ -2,7 +2,7 @@
 
 Submitted by: **Aaron Fowler**
 
-**Top TV Shows** is a movie browsing app that allows users to see what the top shows are based on popularity.
+**Top TV Shows** is a tv show browsing app that allows users to see what the top shows are based on popularity.
 
 
 ## Features
